@@ -1,2 +1,2 @@
-# |  [Events](https://github.com/vmakagon/Events_Courses_Books/tree/master/events)  |  [Courses](https://github.com/vmakagon/Events_Courses_Books/tree/master/courses)  |  [Books](https://github.com/vmakagon/Events_Courses_Books/tree/master/books)  |
+# |  [Events](events)  |  [Courses](courses)  |  [Books](books)  |
 
