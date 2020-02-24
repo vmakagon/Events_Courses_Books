@@ -1,5 +1,6 @@
 |Event|Data|details|
 |-|-|-|
+| [Data Science Meetup](https://www.facebook.com/events/257966361841580/)| 25 февраля 2020| [link_here]() |
 | [PyData Moscow Meetup 11](https://corp.mail.ru/ru/press/events/698/)| 01 февраля 2020 | [link](2020/PyData%20Moscow%20Meetup%2011)|
 |  [Воркшоп „How to implement ML to Telegram Bot”](https://dou.ua/calendar/30480/)| 21 декабря 2019| [link](https://github.com/one-quaker/ds-telegram) |
 |  [Python fwdays'19](https://fwdays.com/event/python-fwdays-online-conference)| 14 декабря 2019 | [link](2019/Python%20fwdays'19) |
